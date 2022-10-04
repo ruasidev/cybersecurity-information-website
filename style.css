@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+
+body {
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.headings {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 40px;
+}
+
+.section-headings {
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.font2 {
+    font-family: 'Oxygen', sans-serif;
+}
+
+h2 {
+    font-family: 'Share Tech Mono', monospace;
+}
+
+
+p {
+    line-height: 30px;
+    font-size: large;
+    margin-left: 40px;
+}
