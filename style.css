@@ -2,19 +2,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
 
 body {
+    color: white;
+    background-image: url("output.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     margin-top: 40px;
     margin-left: 50px;
     margin-right: 50px;
 }
 
 .headings {
+    background: rgba(20, 20, 20, .8);
+    padding: 20px 50px 20px 50px;
+    border-radius: 9px;
     font-family: 'Share Tech Mono', monospace;
     font-size: 40px;
 }
 
 .section-headings {
+    border-radius: 9px;
+    padding: 30px 50px 30px 50px;
+    background: rgba(20, 20, 20, .8);
     margin-top: 50px;
     margin-left: 30px;
+    margin-right: 20px;
 }
 
 .font2 {
@@ -30,4 +41,11 @@ p {
     line-height: 30px;
     font-size: large;
     margin-left: 40px;
+}
+
+.ending {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-family: 'Oxygen', sans-serif;
 }
